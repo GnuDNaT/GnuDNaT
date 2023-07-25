@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi, I’m Tan Dung
-🌱 I’m currently learning Software Engineering at FPT University HCM Campus
-📚 I’m currently learning Java ☕ and C# 🦈
-📫 Contact me via vongoctandung2002@gmail.com
+* 👋 Hi, I’m Tan Dung
+* 🌱 I’m currently learning Software Engineering at FPT University HCM Campus
+* 📚 I’m currently learning Java ☕ and C# 🦈
+* 📫 Contact me via vongoctandung2002@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tan.dung.2910) 
