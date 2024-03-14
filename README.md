@@ -14,4 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GnuDNaT&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gnudnat&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GnuDNaT&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
